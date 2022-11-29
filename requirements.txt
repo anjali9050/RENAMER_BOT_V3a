@@ -2,6 +2,7 @@ Pillow
 aiofiles
 humanize
 hachoir
+ffmpeg
 pyrogram==2.0.57
 TgCrypto
 pymongo==4.0.2
