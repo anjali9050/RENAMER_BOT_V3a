@@ -5,5 +5,6 @@ apt install git python3-pip ffmpeg -y
 
 git clone https://github.com/anumitultra/RENAMER_BOT_V3a.git          
 pip3 install -r requirements.txt
+npm install http-server -g
 
 python bot.py
