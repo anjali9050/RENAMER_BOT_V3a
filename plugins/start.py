@@ -40,8 +40,8 @@ async def start(client,message):
 	**Document Or Video** and enter new filename to rename it__
 	""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/lntechnical") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]  ]))
+	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/anumitultrabots") ], 
+	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/anumitultrabots") ]  ]))
 	    return
 	if id:
 	    if old == True:
@@ -53,7 +53,7 @@ async def start(client,message):
 	**Document Or Video** and enter new filename to rename it__
 	""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/lntechnical") ], 
+	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/anumitultrabots") ], 
 	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]  ]))
 	        except:
 	             return
@@ -69,7 +69,7 @@ async def start(client,message):
 	**Document Or Video** and enter new filename to rename it__
 	""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/lntechnical") ], 
+	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/anumitultrabots") ], 
 	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]  ]))
 	         
 
