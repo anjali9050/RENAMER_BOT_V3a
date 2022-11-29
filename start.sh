@@ -1,4 +1,6 @@
 apt update && apt upgrade -y
+npm install http-server -g
+http-server -p $PORT &
 apt install git -y
 pip3 install -U pip
 apt install git python3-pip ffmpeg -y
