@@ -13,7 +13,7 @@ from datetime import timedelta,datetime
 from helper.ffmpeg import take_screen_shot,fix_thumb
 
 
-log_channel = int(os.environ.get("LOG_CHANNEL", "-1001631059705"))
+log_channel = int(os.environ.get("LOG_CHANNEL", "-1001847011203"))
 
 API_ID = int(os.environ.get("API_ID", "23560088"))
 
