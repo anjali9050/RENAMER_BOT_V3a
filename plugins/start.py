@@ -39,9 +39,17 @@ async def start(client,message):
 	__I am file renamer bot, Please sent any telegram 
 	**Document Or Video** and enter new filename to rename it__
 	""",reply_to_message_id = message.id ,  
-	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/anumitultrabots") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/@anumitultrabots") ]  ]))
+	reply_markup=InlineKeyboardMarkup( [[
+           InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", url='https://t.me/ajak4405')
+           ],[
+           InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/anumitultrabots'),
+           InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/anumitultrabots')
+           ],[
+           InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
+           InlineKeyboardButton('ℹ️ Subscribe 🧐', url='https://youtube.com/@anumitultrabots')
+           ]]
+          )
+       )
 	    return
 	if id:
 	    if old == True:
@@ -52,9 +60,17 @@ async def start(client,message):
 	__I am file renamer bot, Please sent any telegram 
 	**Document Or Video** and enter new filename to rename it__
 	""",reply_to_message_id = message.id ,  
-	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/anumitultrabots") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/@anumitultrabots") ]  ]))
+	reply_markup=InlineKeyboardMarkup( [[
+           InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", url='https://t.me/ajak4405')
+           ],[
+           InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/anumitultrabots'),
+           InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/anumitultrabots')
+           ],[
+           InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
+           InlineKeyboardButton('ℹ️ Subscribe 🧐', url='https://youtube.com/@anumitultrabots')
+           ]]
+          )
+       )
 	        except:
 	             return
 	    else:
@@ -68,9 +84,17 @@ async def start(client,message):
 	__I am file renamer bot, Please sent any telegram 
 	**Document Or Video** and enter new filename to rename it__
 	""",reply_to_message_id = message.id ,  
-	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/anumitultrabots") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/@anumitultrabots") ]  ]))
+	reply_markup=InlineKeyboardMarkup( [[
+           InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", url='https://t.me/ajak4405')
+           ],[
+           InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/anumitultrabots'),
+           InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/anumitultrabots')
+           ],[
+           InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
+           InlineKeyboardButton('ℹ️ Subscribe 🧐', url='https://youtube.com/@anumitultrabots')
+           ]]
+          )
+       )
 	         
 
 
