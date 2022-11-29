@@ -41,7 +41,7 @@ async def start(client,message):
 	""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/anumitultrabots") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/anumitultrabots") ]  ]))
+	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/@anumitultrabots") ]  ]))
 	    return
 	if id:
 	    if old == True:
@@ -54,7 +54,7 @@ async def start(client,message):
 	""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/anumitultrabots") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]  ]))
+	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/@anumitultrabots") ]  ]))
 	        except:
 	             return
 	    else:
@@ -70,7 +70,7 @@ async def start(client,message):
 	""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/anumitultrabots") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]  ]))
+	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/@anumitultrabots") ]  ]))
 	         
 
 
