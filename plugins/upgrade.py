@@ -25,6 +25,6 @@ async def upgrade(bot,update):
         Payment To Admin"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("ADMIN 🛂",url = "https://t.me/Aaajats")], 
-        			[InlineKeyboardButton("PayPal 🌎",url = "https://www.paypal.me/ajak4405")],
+        			[InlineKeyboardButton("PayPal 🌎",url = "https://www.paypal.me/ajak4406")],
 		                [InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
