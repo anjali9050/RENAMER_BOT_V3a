@@ -13,7 +13,7 @@ from helper.date import add_date ,check_expi
 CHANNEL = os.environ.get('CHANNEL',"anumitultrabots")
 import datetime
 from datetime import date as date_
-STRING = os.environ.get("STRING","BQEOqKoAqQvHmoAVkpuXZhnXcV2AmZtcoGp0-qXuEQmWpd5zsTwZlAuPEHSmbsOjb3wkBXJzkoqg7S5oeFou7-zUoa1SAu776tTxIk8YORVJ6nNU9HY_X_1gnNJlUZ4zV-MxnA_wFWY9k8HTlTSzNPpUkNjo7i16ZbMWjv9Fh1U2Q5NzIGzWjcK1RIB2oUw-g5E6wys-U5b4DrnlCnOVZje6c_nB0Jpx4X2YJjJH0ZUui9KPXnbHIjd_QM0QYYSPoS5odI3McXxEAjSfII2GYjPlHjhT-hMH2irFCehq3MU8DhsVGgiY0WgPhbJL6qYrctnUP43hQvr1jN4gFFvdmD6L4zMNcgAAAABvJ4dUAA")
+STRING = os.environ.get("STRING","BQAS3LF2L1Ut3zqenJfw2tVDxQ3KI5FBftE8sQvYO62UxHMp5EL_20dAnHrM4gGHl-fEhiCKWaWu0rbPqhkgqXHCtLZj7SQ9Qeq7zjzWCGJ-PnB9axnGm3KOtxIIpSLXsTuaonytGKL541sJh3cDtg-l17lraYCMnE-Ohs4jUXvfhuTJh4DulhGnyNkkH0RfV_j7qCDJyNNyGoGXgFRDE1hQ-JIW8JiGbgIJGcPhWLeCwDvwavgzhgU0bZkENowEz01YK9e7A4ZXa3_p_zXsg7-vEh6_qwdC4Lss43EsbY6-Y6HXhcjeV8WWznUlnsSYZsuaROOtEu2YlIpCZqJUQI8MAAAAAG8nh1QA")
 log_channel = int(os.environ.get("LOG_CHANNEL","-1001847011203"))
 
 #Part of Day --------------------
