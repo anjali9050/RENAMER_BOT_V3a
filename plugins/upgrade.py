@@ -12,11 +12,11 @@ async def upgrade(bot,update):
 	**It's Support 4GB File Rename**
 	**VIP 1 ** 
 	Daily  Upload  limit 20GB
-	Price Rs 25 🇮🇳/🌎 4$  per Month
+	Price Rs 40 🇮🇳/🌎 4$  per Month
 	
 	**VIP 2 **
 	Daily Upload limit 1O0GB
-	Price Rs 40  🇮🇳/🌎 6$  per Month
+	Price Rs 60  🇮🇳/🌎 6$  per Month
 	
 	
 	Pay Using Upi I'd ```ultrabots.famc@idfcbank```
